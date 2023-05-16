@@ -1,0 +1,1 @@
+web gunicorn datalogger.wsgi:apllication --log-file -
