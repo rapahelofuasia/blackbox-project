@@ -1,1 +1,1 @@
-web gunicorn datalogger.wsgi:apllication --log-file -
+web gunicorn datalogger.wsgi:application --log-file -
